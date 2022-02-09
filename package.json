@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.9",
+    "gulp": "^4.0.2",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
